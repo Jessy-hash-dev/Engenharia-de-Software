@@ -1,3 +1,3 @@
 # Engenharia-de-Software
 
-- [ ] Configurar as credenciais do Github
+- [x] Configurar as credenciais do Github
